@@ -68,5 +68,3 @@ if __name__ == "__main__":
             else:
                 c += 1
                 print(getFriendInfo(i, token))
-
-#b12a78c1cb8ac1c0c6e3871f7f01a00d4a9b61ce754f9c708e75f3a34c612820f42506a3a1fb5c554e2e0
